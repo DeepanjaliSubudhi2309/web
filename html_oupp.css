@@ -1,0 +1,25 @@
+p {
+    color:green;
+}
+h1 {
+    color: red;
+}
+body {
+    background-color: black;
+}
+button {
+    border-radius: 50px;
+    background-color: rgb(79, 150, 175);
+}
+.less {
+    color: aqua;
+}
+.double {
+    color: rgb(191, 218, 133);
+}
+.single {
+    color: rgb(196, 138, 208);
+}
+.euro {
+    color: rgb(239, 192, 157);
+}
